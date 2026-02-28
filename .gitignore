@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large ML files
+*.npy
+*.h5
+*.pt
+*.pkl
+
+# Dataset folders
+data/statsbomb/
+open-data-master/
+three-sixty/
+events/
+matches/
+lineups/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
